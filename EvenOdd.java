@@ -13,5 +13,6 @@ class EvenOdd{
         } else {
             System.out.println(num + " is odd.");
         }
+        System.out.println("This is master branch");
     }
 }
